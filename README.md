@@ -1,16 +1,22 @@
-# navigation
+# Navigation
 
-A new Flutter project.
+## Version
 
-## Getting Started
+-   Dart version 3.0.3
+-   Flutter version 3.10.3
+-   DevTools version 2.23.1
 
-This project is a starting point for a Flutter application.
+## UI
 
-A few resources to get you started if this is your first Flutter project:
+- ## Home Screen or Page 1
+<img src="https://github.com/pd28CSE/flutter_navigation_module5_assignment_ostad/assets/71305747/a5e5e5eb-993f-4abc-aa4c-d2e00023952d" width="50%" height="50%"><hr>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ## Chat Screen or Page 2
+<img src="https://github.com/pd28CSE/flutter_navigation_module5_assignment_ostad/assets/71305747/23cb52fa-00e4-4008-a372-97cd4fb2c23f" width="50%" height="50%"><hr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ## Call Screen or Page 3
+<img src="https://github.com/pd28CSE/flutter_navigation_module5_assignment_ostad/assets/71305747/327df075-e334-465d-8791-5af56783c446" width="50%" height="50%"><hr>
+
+- ## Drawer
+<img src="https://github.com/pd28CSE/flutter_navigation_module5_assignment_ostad/assets/71305747/efc402b5-1eea-4a4b-8162-33170cf3fc26" width="50%" height="50%"><hr>
+
